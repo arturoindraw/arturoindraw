@@ -1,6 +1,6 @@
 ### Hola, soy Arturo Rodriguez 👋
 
-Soy **Front-end Developer y Consultor de IA**, enfocado en crear soluciones web modernas, automatizaciones de negocios y agentes inteligentes[cite: 1].
+Soy **Front-end Developer y Consultor de IA**, enfocado en crear soluciones web modernas, automatizaciones de negocios y agentes inteligentes.
 
 ---
 
